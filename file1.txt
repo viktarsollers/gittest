@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1. Adding
 2. yet
 3.more code
+=======
+Fix1
+>>>>>>> edb88a4 (Added fix1)
 =======
 Fix1
 >>>>>>> edb88a4 (Added fix1)
